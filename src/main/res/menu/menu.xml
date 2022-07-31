@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/whatsapp"
+          android:title="Whatsapp"
+          android:icon="@drawable/whatsapp"
+          app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/teams"
+        android:title="Config. Teams"
+        android:icon="@drawable/gear"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/share"
+        android:title="Notify formally.."/>
+
+
+
+</menu>
